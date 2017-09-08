@@ -1,0 +1,13 @@
+---
+layout: post
+title: "¡Hola!"
+subtitle: "¿Qué tal estás?"
+date: 2017-09-10 13:30:00
+categories: [blog]
+---
+
+**Folks Who Code** es una organización que nace como resultado del interés de un grupo de personas por la tecnología y el desarrollo de software.
+
+Es evidente que en nuestra comunidad **existe un grave problema de diversidad**, por ello hemos querido enfocar parte de nuestros proyectos en crear **espacios más seguros, diversos e inclusivos**.
+
+No existe una fórmula mágica para mejorar la situación de las minorías dentro del sector, por eso nuestros proyectos son de características muy diferentes pero siempre con un objetivo en común: **democratizar el acceso a la comunidad tecnológica**.

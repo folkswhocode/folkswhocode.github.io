@@ -1,18 +1,12 @@
 ---
 layout: page
 title: About
+subtitle: ¿Quiénes somos?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Folks Who Code** es una organización que nace como respuesta a la inquietud de una comunidad de personas por hacer de la tecnología un espacio más seguro e inclusivo.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+El centro neurálgico de nuestra organización se encuentra en [Github](https://github.com/folkswhocode), donde se alojan nuestros distintos proyectos e iniciativas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+También nos puedes seguir en [Twitter](https://twitter.com/folkswhocode), para estar al tanto de las novedades que se vayan generando dentro de la organización.

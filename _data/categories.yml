@@ -1,0 +1,2 @@
+- slug: blog
+  name: Blog
