@@ -11,3 +11,9 @@ categories: [blog]
 Es evidente que en nuestra comunidad **existe un grave problema de diversidad**, por ello hemos querido enfocar parte de nuestros proyectos en crear **espacios más seguros, diversos e inclusivos**.
 
 No existe una fórmula mágica para mejorar la situación de las minorías dentro del sector, por eso nuestros proyectos son de características muy diferentes pero siempre con un objetivo en común: **democratizar el acceso a la comunidad tecnológica**.
+
+El centro neurálgico de nuestra organización se encuentra en [Github](https://github.com/folkswhocode), donde se alojan nuestros distintos proyectos e iniciativas.
+
+También nos puedes seguir en [Twitter](https://twitter.com/folkswhocode), para estar al tanto de las novedades que se vayan generando dentro de la organización.
+
+Si quieres formar parte del proyecto y colaborar en cualquier tipo de iniciativa, puedes contactar con nosotres vía [Twitter](https://twitter.com/folkswhocode) para unirte a la organización de [Github](https://github.com/folkswhocode) y comenzar a trabajar juntos.
