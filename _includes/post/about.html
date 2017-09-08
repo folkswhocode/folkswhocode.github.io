@@ -2,6 +2,6 @@
   <div class="about__devider">*****</div>
   <div class="about__text">
    Escrito por <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
-    en <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+    el <strong>{{ page.date | date: "%d/%m/%Y" }}</strong>
   </div>
 </div>
