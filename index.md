@@ -10,7 +10,7 @@ category: blog
       <li class="post-teaser">
         <a href="{{ post.url | prepend: site.baseurl }}">
           <span class="post-teaser__title">{{ post.title }}</span>
-          <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+          <span class="post-teaser__date">{{ post.date | date: "%d/%m/%Y" }}</span>
         </a>
       </li>
       {% assign empty_category = false %}
