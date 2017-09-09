@@ -85,7 +85,7 @@ strong {
 }
 
 .logo {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   color: $iron;
   display: block;
@@ -102,7 +102,6 @@ strong {
 
 .menu__entry {
   display: inline-block;
-  margin-right: 35px;
 
   &:last-child {
     margin-right: 0;
@@ -111,6 +110,11 @@ strong {
 
 .menu__entry a {
   font-weight: 400;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .social-links {
@@ -133,7 +137,7 @@ strong {
 
 .page-title__text {
   font-weight: 700;
-  font-size: 70px;
+  font-size: 30px;
 }
 
 .page-title__subtitle {
@@ -268,12 +272,12 @@ strong {
   }
 
   .page-title {
-    margin-top: 80px;
-    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 
   .page-title__text {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .page-title__subtitle {
