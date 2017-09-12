@@ -5,7 +5,7 @@ subtitle: ¿Quiénes somos?
 permalink: /about/
 ---
 
-**Folks Who Code** es una organización que nace como respuesta a la inquietud de una comunidad de personas por hacer de la tecnología un espacio más seguro e inclusivo.
+**Folks Who Code** es una organización que nace como respuesta a la inquietud de una comunidad de personas por hacer de la tecnología un espacio más **seguro e inclusivo**.
 
 El centro neurálgico de nuestra organización se encuentra en [Github](https://github.com/folkswhocode), donde se alojan nuestros distintos proyectos e iniciativas.
 
