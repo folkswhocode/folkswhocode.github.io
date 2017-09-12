@@ -2,6 +2,7 @@
 layout: post
 title: "Awesome Diversity"
 subtitle: "Aglutinando recursos sobre diversidad en tecnología"
+description: "Aglutinando recursos sobre diversidad en tecnología"
 date: 2017-09-12 11:30:00
 categories: [blog]
 ---
@@ -12,7 +13,7 @@ De todos ellos, consideramos prioritario [Awesome Diversity](https://github.com/
 
 ## ¿Por qué este proyecto?
 
-En el mundo del software está bastante extendida la dinámica de crear [listas awesome](https://github.com/sindresorhus/awesome), repositorios en donde se categorizan en función de una tecnología o temática una serie de referencias que cualquier persona puede consultar a la hora de iniciarse en cierta disciplina. Actualmente no hemos encontrado ninguna que aborde la temática de la **diversidad en tecnología**, de modo que esta iniciativa tiene como fin cubrir ese vacío. [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) es un **work in progress** contínuo.
+En el mundo del software está bastante extendida la dinámica de crear [listas awesome](https://github.com/sindresorhus/awesome), repositorios en donde se categorizan en función de una tecnología o temática una serie de referencias de valor que cualquier persona puede consultar a la hora de iniciarse en cierta disciplina. Actualmente no hemos encontrado ninguna que aborde la temática de la **diversidad en tecnología**, de modo que esta iniciativa tiene como fin cubrir ese vacío. [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) es un **work in progress** contínuo.
 
 ## ¿Puedo colaborar en el proyecto?
 
