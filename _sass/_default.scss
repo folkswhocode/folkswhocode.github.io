@@ -1,8 +1,9 @@
 /* =Base */
 body {
-  font-family: 'Inconsolata';
+  font-family: 'Montserrat', sans-serif;
   color: $iron;
-  background-color: $dorian;
+  background-color: $white;
+  font-weight: 400;
 }
 
 a {
@@ -14,11 +15,11 @@ a {
 }
 
 p {
-  font-size: 20px;
-  line-height: 32px;
+  font-size: 16px;
+  line-height: 26px;
 }
 
-img {
+.content img {
   margin: 40px auto;
   display: block;
   max-width: 100%;
@@ -122,6 +123,7 @@ strong {
   font-size: 24px;
   color: $cloudy;
   list-style-type: none;
+  margin: 46px 0 0 0;
 }
 
 .social-links__entry {
@@ -238,9 +240,11 @@ strong {
 }
 
 .about__devider {
-  font-size: 20px;
+  font-size: 26px;
   margin-bottom: 50px;
   letter-spacing: 9.09px;
+  font-weight: 500;
+  color: $violet;
 }
 
 .about__text {
