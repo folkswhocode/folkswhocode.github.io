@@ -2,6 +2,7 @@
 layout: post
 title: "DiversiFAQ"
 subtitle: "Recopilando las preguntas más frecuentes sobre diversidad en tecnología"
+description: "Recopilando las preguntas más frecuentes sobre diversidad en tecnología"
 date: 2017-09-21 11:30:00
 categories: [blog]
 ---
