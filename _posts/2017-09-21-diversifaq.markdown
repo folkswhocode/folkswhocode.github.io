@@ -7,7 +7,7 @@ date: 2017-09-21 11:30:00
 categories: [blog]
 ---
 
-**DiversiFAQ** es el primero de los nuevos proyectos que vamos a presentar esta
+[DiversiFAQ](https://github.com/folkswhocode/diversifaq) es el primero de los nuevos proyectos que vamos a presentar esta
 semana y que tiene como objetivo recopilar y dar respuesta a todas aquellas
 preguntas relacionadas con la diversidad en tecnología.
 
