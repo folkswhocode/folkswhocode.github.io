@@ -86,11 +86,19 @@ strong {
 }
 
 .logo {
+  display: block;
+  width: 100%; height: 52px;
+
   font-size: 40px;
   font-weight: 700;
   color: $iron;
-  display: block;
   text-decoration: none;
+
+  img {
+    display: block;
+    height: 38px;
+    margin: 0 auto;
+  }
 }
 
 .menu {
@@ -256,6 +264,10 @@ strong {
 #disqus_thread {
   margin-top: 100px;
 }
+
+//
+// Tablet?
+//
 @media (max-width: 800px) {
   /* =Base */
   p {
