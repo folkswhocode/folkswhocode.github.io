@@ -2,7 +2,7 @@
 title: Folks Who Code
 description: >
   Empoderando grupos infrarepresentados en tecnología.
-cover: http://folkswhocode.org/assets/vendor/images/logo.svg
+cover: assets/vendor/images/logo.svg
 
 baseurl: ""
 url: "http://folkswhocode.org/"
