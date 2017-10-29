@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Roadmap 2017"
+subtitle: "Iniciativas de la organización para lo que queda de 2017"
+description: "Iniciativas de la organización para lo que queda de 2017"
+date: 2017-10-30 11:30:00
+categories: [blog]
+---
+
+A pesar de haber estado en silencio durante casi un mes debido a la falta de tiempo por trabajo,
+en **Folks Who Code** no hemos parado de darle vueltas y preparar las iniciativas que tenemos en mente
+para lo que queda de año, y nos gustaría compartir el punto en el que nos encontramos, y qué tenemos
+pensado.
+
+Antes de nada, agradecer a todos los contributors y gente que os habéis interesado en nuestro
+proyecto inicial: [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity).
+Día a día esta lista está creciendo y llegando a más gente, y eso nos hace muy felices.
+Recordaros que podéis aportar valor a esta lista [siguiendo las guidelines de contribución](https://github.com/folkswhocode/awesome-diversity/blob/master/.github/CONTRIBUTING.md).
+
+Por otro lado, en [DiversiFAQ](https://github.com/folkswhocode/diversifaq) seguimos añadiendo
+contenido para ofrecer la **FAQ** más completa sobre diversidad. Al igual que con [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity), si quieres colaborar con este proyecto,
+solo tienes que seguir las [guidelines](https://github.com/folkswhocode/diversifaq/blob/master/CONTRIBUTING.md)
+disponibles en el repositorio.
+
+La nueva iniciativa en la que estamos trabajando, y que aún no os habíamos presentado, se llama
+[Diversity In Tech](https://github.com/folkswhocode/diversity-in-tech). Se trata de una aplicación
+donde poder puntuar a empresas tecnológicas en función de lo *diverse friendly* que sean. Pero lo más
+interesante de esta iniciativa no es la aplicación en si, sino el camino para obtenerla: nuestro objetivo
+es que sea una aplicación colaborativa, desarrollada por todas aquellas personas que se animen a contribuir.
+No importa que seas junior, senior, que no hayas programado nunca antes... iremos creando una serie de **issues**
+adaptadas a todos los niveles. A lo largo de esta semana
+escribiremos un post específico sobre esta iniciativa, pero si quieres puedes ir echando un ojo a las [issues](https://github.com/folkswhocode/diversity-in-tech/issues) que ya tenemos creadas.
+
+Y para finalizar, nos gustaría abrir un debate acerca de la que posiblemente sea la última iniciativa que vayamos a abarcar este año: crear un punto de encuentro donde poder generar un **foro de debate sobre múltiples temas alrededor de la diversidad en tecnología**. Hemos creado una [issue](https://github.com/folkswhocode/base/issues/10) en el [proyecto base](https://github.com/folkswhocode/base) de la organización para definir entre todos este punto, de modo que si quieres puedes participar en la definición y bases de esta iniciativa compartiendo tu opinión en dicha [issue](https://github.com/folkswhocode/base/issues/10).
+
+¡Seguiremos informando de más propuestas y proyectos a medida que vayan surgiendo! :)
