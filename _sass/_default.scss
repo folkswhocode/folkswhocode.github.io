@@ -265,6 +265,27 @@ strong {
   font-size: 18px;
 }
 
+.row {
+  width: 100%;
+  float: left;
+  margin-bottom: 24px;
+}
+
+.member {
+  width: 32%;
+  float: left;
+  margin-right: 16px;
+  overflow: hidden;
+
+  &:last-child {
+    margin-right: 0;
+  }
+  img {
+    margin-bottom: 4px;
+    width: 100%;
+  }
+}
+
 #disqus_thread {
   margin-top: 100px;
 }
@@ -277,6 +298,12 @@ strong {
   p {
     font-size: 16px;
     line-height: 1.6;
+  }
+
+  .member {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
   }
 
   .wrapper {

@@ -11,6 +11,23 @@ El centro neurálgico de nuestra organización se encuentra en [Github](https://
 
 También nos puedes seguir en [Twitter](https://twitter.com/folkswhocode), para estar al tanto de las novedades que se vayan generando dentro de la organización.
 
+**Folks Who Code** lo forman:
+
+<div class="row">
+  <div class="member">
+    <img src="/assets/vendor/images/ivangonzalez.jpg">
+    <span><a href="https://github.com/dreamingechoes">Iván González</a></span>
+  </div>
+  <div class="member">
+    <img src="/assets/vendor/images/marinavega.jpg">
+    <span><a href="https://github.com/marinavega">Marina Vega</a></span>
+  </div>
+  <div class="member">
+    <img src="/assets/vendor/images/manuelgomez.jpg">
+    <span><a href="https://github.com/tasugo">Manuel Gómez</a></span>
+  </div>
+</div>
+
 Como muestra de nuestro apoyo a la diversidad en los eventos de tecnología, hemos firmado la [diversity charter](http://diversitycharter.org/). Tú también puedes hacerlo, bien como parte de un evento tecnológico,
 o como persona individual.
 
